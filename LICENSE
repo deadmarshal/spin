@@ -1,21 +1,17 @@
-MIT License
+SPIN License Agreement
 
-Copyright (c) 2025 Ali
+The University of Washington ("University") is making available the SPIN Operating System source code and documentation ("Software") to you ("Licensee") at no charge under the terms of this License. This Software is licensed to the Licensee and not otherwise sold or given. In downloading, copying, installing or otherwise using the Software, the Licensee agrees to be bound by the following;
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. University hereby grants to Licensee a non-exclusive license to use and modify the Software in accordance with this agreement.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Licensee may use the Software only for internal research purposes. Licensee shall provide to University any modifications made to the Software. University shall be free to use, disclose, publish and otherwise transfer all modifications, information, and idea feedback provided by Licensee. Licensee shall not distribute, disclose (except to colleagues having a need to know), publish, or otherwise transfer or allow to be transferred the Software, in whole or in part, without prior written permission of University. Licensee shall retain in any copies of the Software any proprietary markings supplied by University.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. The Software is experimental in nature and is supplied "AS IS", without obligation by the University to provide accompanying services or support. The entire risk as to the quality and performance of the Software is with the Licensee. University EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES REGARDING THE SOFTWARE, WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES PERTAINING TO MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.
+
+Licensee shall indemnify, hold harmless and defend the University of Washington, its officers, Software developers, employees, students, and agents, against any and all claims, suits, losses, damages, costs, fees, and expenses resulting from or arising out of this Agreement, including but not limited to any damages, losses, or liabilities whatsoever with respect to death or injury to any person and damage to any property arising from the possession, use, or operation of the Software by Licensee or any customers, users, or others affected by the Software through the actions of Licensee. This indemnification clause shall survive the termination of this Agreement.
+
+5. Failure to comply with the terms and conditions of this License terminates all rights granted by the University to the Licensee.
+
+6. This Agreement shall be construed in accordance with, and its performance shall be governed by, the laws of the State of Washington, United States of America without giving effect to Washington's conflict of laws provisions. Any suit, action, or proceeding arising out of or relating to this Agreement shall be decided in King County, Washington or Thurston County, Washington. If any provision of this Agreement shall be held to be invalid, illegal or unenforceable, the validity, legality and enforceability of the remaining provisions shall not be in any way affected or impaired thereby.
+
+No amendment hereof shall be valid or binding upon the parties unless it is made in writing, cites this Agreement, and is signed by duly authorized representatives of University and Licensee. This Agreement and the rights and benefits conferred upon Licensee hereunder may not be assigned or otherwise transferred by Licensee without the prior written consent of University. This Agreement may be assigned by University. This Agreement embodies the entire understanding of the parties and supersedes all previous communications, representations, or understandings, either oral or written, between the parties relating to the matter hereof.
